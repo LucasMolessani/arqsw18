@@ -1,4 +1,4 @@
-package br.usjt.arqsw.entity;
+package br.usjt.ftce.arqsw.entity;
 
 public class Fila {
 	private int id;
